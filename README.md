@@ -1,4 +1,4 @@
-# 🏎️ F1 API
+# 🏎️ F1 APIRestFul
 
 RESTful API para gestionar datos de Fórmula 1: usuarios, circuitos, pilotos y equipos.  
 Incluye autenticación, autorización y endpoints para CRUD sobre las entidades principales.
